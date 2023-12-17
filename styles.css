@@ -1,0 +1,21 @@
+img{
+	width:300;
+	border: 5px solid black
+}
+body{
+	font-family:Consolas;
+	background-color: skyblue;
+	text-align: center;
+	font-size:24
+}
+h3{
+   color: orange;
+   font-size: 30;   
+}
+h1{
+   font-size: 55;
+}
+h2{
+	font-size: 40;
+	color: yellow;
+}
